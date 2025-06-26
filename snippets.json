@@ -56,32 +56,11 @@
     "shortcut": ";regards"
   },
   {
-    "label": "mobile",
-    "icpc_code": "",
-    "language": "EN",
-    "content": "+31611801707",
-    "shortcut": ";mobile"
-  },
-  {
-    "label": "date of birth",
-    "icpc_code": "",
-    "language": "EN",
-    "content": "27-June-1979",
-    "shortcut": ";dobsf"
-  },
-  {
     "label": "shoulder pain",
     "icpc_code": "",
     "language": "EN",
     "content": "P: Adviced to monitor symptoms; return if pain worsens, movement becomes limited, or no improvement within 2 weeks.",
     "shortcut": ";shoulder-p"
-  },
-  {
-    "label": "address",
-    "icpc_code": "",
-    "language": "EN",
-    "content": "Stelle 6-A\n3191 KE, Hoogvliet\nRotterdam",
-    "shortcut": ";address"
   },
   {
     "label": "pain",
