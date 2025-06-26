@@ -1,0 +1,142 @@
+[
+  {
+    "label": "plan: Acute Cough",
+    "icpc_code": "R05",
+    "language": "NL",
+    "content": "P: Voorlichting gegeven over acute hoest. Geen tekenen van pneumonie. Geen antibiotica nodig. Advies: rust, voldoende drinken, paracetamol indien nodig. Veiligheidsnet: terugkomen bij koorts > 3 dagen, benauwdheid of toename van klachten.",
+    "shortcut": ";acutecough"
+  },
+  {
+    "label": "eye pain",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "P: Provided safetynet for eye pain, if worsening symptoms call back.",
+    "shortcut": ";eyepain"
+  },
+  {
+    "label": "thyroid",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "P: Blood tests requested: TSH, FT4, anti-TPO. Advised follow-up after results. Consider referral if abnormal values persist. Patient informed of lab procedure.",
+    "shortcut": ";thyroidcheck"
+  },
+  {
+    "label": "fever",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "P: Patient advised to monitor symptoms and return if fever persists > 3 days, develops shortness of breath, or appears generally unwell. Explained when to seek urgent care.",
+    "shortcut": ";fever-p"
+  },
+  {
+    "label": "dysuria",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "P: Suspected uncomplicated UTI. Started nitrofurantoin 100mg 2x/day for 5 days. Urine dip showed positive leukocytes and nitrites. Advised hydration. Safety-netting: return if fever, back pain, or no improvement in 48h.",
+    "shortcut": ";dysuria"
+  },
+  {
+    "label": "referral gyn",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "P: Referral to gynecology due to heavy menstrual bleeding unresponsive to treatment. Transvaginal ultrasound advised prior to consultation. Patient informed.",
+    "shortcut": ";refergyn"
+  },
+  {
+    "label": "koorts",
+    "icpc_code": "",
+    "language": "NL",
+    "content": "P: Veiligheidsnet afgesproken: terugkomen bij koorts > 3 dagen, benauwdheid of algehele achteruitgang. Uitleg gegeven wanneer spoed gewenst is.",
+    "shortcut": ";koorts-p"
+  },
+  {
+    "label": "regards",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "With kind regards,\nM.S. Fonderson, MD, Specialist Family Medicine, Epidemiologist\nsabine@drfonderson.com",
+    "shortcut": ";regards"
+  },
+  {
+    "label": "mobile",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "+31611801707",
+    "shortcut": ";mobile"
+  },
+  {
+    "label": "date of birth",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "27-June-1979",
+    "shortcut": ";dobsf"
+  },
+  {
+    "label": "shoulder pain",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "P: Adviced to monitor symptoms; return if pain worsens, movement becomes limited, or no improvement within 2 weeks.",
+    "shortcut": ";shoulder-p"
+  },
+  {
+    "label": "address",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "Stelle 6-A\n3191 KE, Hoogvliet\nRotterdam",
+    "shortcut": ";address"
+  },
+  {
+    "label": "pain",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "For now advised to take regular painkillers. If symtpoms do not clear after 3 weeks to return for follow-up.",
+    "shortcut": ";acutepain-p"
+  },
+  {
+    "label": "pain",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "For now advised to take regular painkillers. If symtpoms do not clear after 3 weeks to return for follow-up.",
+    "shortcut": ";acutepain-p"
+  },
+  {
+    "label": "pain",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "For now advised to take regular painkillers. If symtpoms do not clear after 3 weeks to return for follow-up.",
+    "shortcut": ";acutepain-p"
+  },
+  {
+    "label": "headache",
+    "icpc_code": "",
+    "language": null,
+    "content": "P: Patient will begin with over-the-counter analgesics as needed for pain. Advise patient to maintain adequate hydration and rest in a quiet, dark room as needed. Encourage keeping a headache diary to identify potential triggers. If headaches persist or worsen, recommend follow-up appointment for further evaluation and consider referral to a neurologist if necessary.",
+    "shortcut": ";headache"
+  },
+  {
+    "label": "wound",
+    "icpc_code": "",
+    "language": null,
+    "content": "Plan: Clean the wound with saline solution and apply an antibiotic ointment. Cover with a sterile bandage, ensuring it is changed daily. Advise the patient to monitor for signs of infection, such as increased redness, swelling, or discharge, and to return if these occur. Schedule a follow-up appointment in one week to assess healing progress. Provide tetanus booster if the patient's immunization status is not up-to-date.",
+    "shortcut": ";wound"
+  },
+  {
+    "label": "oral contraception",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "P: Prescribe oral contraceptive pills as per patient preference and past medical history. Educate patient on proper use, potential side effects, and importance of adherence to dosing schedule. Recommend follow-up appointment in 3 months to assess tolerance and efficacy. Counsel on additional use of barrier methods to protect against STIs.",
+    "shortcut": ";pill"
+  },
+  {
+    "label": "chest pain",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "Plan:  \n- Order ECG and troponin levels to evaluate cardiac ischemia.  \n- Prescribe nitroglycerin sublingual as needed for chest pain relief.  \n- Recommend aspirin 81 mg daily, unless contraindicated, to reduce clot risk.  \n- Schedule chest X-ray to assess for any non-cardiac causes.  \n- Advise patient on avoiding physical exertion until further evaluation.  \n- Arrange follow-up appointment in 1 week or sooner if symptoms worsen.",
+    "shortcut": ";chestpain"
+  },
+  {
+    "label": "fatigue",
+    "icpc_code": "",
+    "language": "EN",
+    "content": "P: Encourage patient to maintain a regular sleep schedule and practice good sleep hygiene. Advise on a balanced diet rich in fruits, vegetables, and whole grains. Recommend regular physical activity, aiming for at least 150 minutes of moderate exercise weekly. Consider checking CBC, thyroid function tests, and iron levels if symptoms persist. Schedule follow-up appointment in 4 weeks to reassess symptoms and evaluate the need for further testing or specialist referral.",
+    "shortcut": ";fatigue"
+  }
+]
