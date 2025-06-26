@@ -5,17 +5,7 @@
 ;dysuria::P: Suspected uncomplicated UTI. Started nitrofurantoin 100mg 2x/day for 5 days. Urine dip showed positive leukocytes and nitrites. Advised hydration. Safety-netting: return if fever, back pain, or no improvement in 48h.
 ;refergyn::P: Referral to gynecology due to heavy menstrual bleeding unresponsive to treatment. Transvaginal ultrasound advised prior to consultation. Patient informed.
 ;koorts-p::P: Veiligheidsnet afgesproken: terugkomen bij koorts > 3 dagen, benauwdheid of algehele achteruitgang. Uitleg gegeven wanneer spoed gewenst is.
-;regards::With kind regards,
-M.S. Fonderson, MD, Specialist Family Medicine, Epidemiologist
-sabine@drfonderson.com
-;mobile::+31611801707
-;dobsf::27-June-1979
 ;shoulder-p::P: Adviced to monitor symptoms; return if pain worsens, movement becomes limited, or no improvement within 2 weeks.
-;address::Stelle 6-A
-3191 KE, Hoogvliet
-Rotterdam
-;acutepain-p::For now advised to take regular painkillers. If symtpoms do not clear after 3 weeks to return for follow-up.
-;acutepain-p::For now advised to take regular painkillers. If symtpoms do not clear after 3 weeks to return for follow-up.
 ;acutepain-p::For now advised to take regular painkillers. If symtpoms do not clear after 3 weeks to return for follow-up.
 ;headache::P: Patient will begin with over-the-counter analgesics as needed for pain. Advise patient to maintain adequate hydration and rest in a quiet, dark room as needed. Encourage keeping a headache diary to identify potential triggers. If headaches persist or worsen, recommend follow-up appointment for further evaluation and consider referral to a neurologist if necessary.
 ;wound::Plan: Clean the wound with saline solution and apply an antibiotic ointment. Cover with a sterile bandage, ensuring it is changed daily. Advise the patient to monitor for signs of infection, such as increased redness, swelling, or discharge, and to return if these occur. Schedule a follow-up appointment in one week to assess healing progress. Provide tetanus booster if the patient's immunization status is not up-to-date.
